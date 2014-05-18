@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: Vadim Rastyagaev
+  description: Installs nodejs runtime
+  license: BSD
+  min_ansible_version: 1.6
+
+  categories:
+  - system
+dependencies: []
